@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+data/
+
+# Reports & Temp Files
+*.pdf
+tmp*/
+temp*/
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Project Specific
+sales_data_sample.csv
+cleanup_project.py
+
+# Next.js build artifacts (additional exclusions)
+.next/
+.next/**
+out/
+node_modules/
+
+# HTML Diagrams (dev only)
+*.html
+
+# Temporary documentation
+*SUMMARY.md
+*GUIDE.md
+*COMPLETE.md
+
+# Screenshots folder (use images/ for README)
+screenshots/
