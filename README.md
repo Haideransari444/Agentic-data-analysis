@@ -502,8 +502,7 @@ User Query → LLM Planning → SQL Execution → Statistical Analysis
 ## 🤝 Contributing
 
 Built as part of AI engineering portfolio by [Your Name]
-- GitHub: [@yourusername](https://github.com/Haideransari444)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/muzamil-haider444/)
+- LinkedIn: [Click Here](https://www.linkedin.com/in/muzamil-haider444/)
 
 ---
 
