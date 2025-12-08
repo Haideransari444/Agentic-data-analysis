@@ -145,8 +145,7 @@ User Natural Language Query
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-sql-agent.git
-cd ai-sql-agent
+git clone https://github.com/Haideransari444/Agentic-data-analysis.git
 ```
 
 **2. Backend Setup**
