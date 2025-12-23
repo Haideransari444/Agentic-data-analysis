@@ -501,7 +501,7 @@ User Query → LLM Planning → SQL Execution → Statistical Analysis
 
 ## 🤝 Contributing
 
-Built as part of AI engineering portfolio by [Your Name]
+Built as part of AI engineering portfolio by Muzammil Haider
 - LinkedIn: [Click Here](https://www.linkedin.com/in/muzamil-haider444/)
 
 ---
