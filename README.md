@@ -1,4 +1,7 @@
-﻿# AI-Powered SQL Analytics Agent
+<!-- GitAds-Verify: J5VZEL78L6VXZWEB6PLXPVHE15BKT5LI -->
+ 
+ 
+ # AI-Powered SQL Analytics Agent
 
 [Getting Started](#getting-started) | [Configuration](#configuration) | [Features](#features)
 
