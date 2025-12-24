@@ -1,7 +1,8 @@
 <!-- GitAds-Verify: J5VZEL78L6VXZWEB6PLXPVHE15BKT5LI -->
 
 
-
+ ## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=haideransari444/agentic-data-analysis@github)](https://gitads.dev/v1/ad-track?source=haideransari444/agentic-data-analysis@github)
  
  # AI-Powered SQL Analytics Agent
 
@@ -513,5 +514,4 @@ Built as part of AI engineering portfolio by Muzammil Haider
 
 **⭐ Star this repository if you find it useful!**
 
- ## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=haideransari444/agentic-data-analysis@github)](https://gitads.dev/v1/ad-track?source=haideransari444/agentic-data-analysis@github)
+
